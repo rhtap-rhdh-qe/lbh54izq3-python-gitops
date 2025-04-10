@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lbh54izq3-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lbh54izq3-python
